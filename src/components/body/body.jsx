@@ -1,29 +1,15 @@
-import React from 'react'
-// import PNG from "./Group 1.png";
-// import MOMO from "./shiv-singh-Vj-J5xNjnxA-unsplash 1.png";
+import React from 'react';
+
 import { FaArrowRightLong } from "react-icons/fa6";
 import {  FaPlay } from 'react-icons/fa';
 import Button from "../Button/button";
-// import PERSON from "./pngwing 1.png";
-// import { FaPhoneAlt } from "react-icons/fa";
 import {FaPhone} from 'react-icons/fa';
 import { FaClock } from 'react-icons/fa6';
-
-// import { FaRegCirclePlay } from "react-icons/fa6";
-
-
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
-// import { FaClock } from "react-icons/fa";
-// import food from "./Quality.png";
 import { FaLocationDot } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaTiktok } from "react-icons/fa";
-// import catering from "./Chef.png";
-// import RPerson from "./Rectangle 8.png";
-// import party from "./party.png";
-
-
 import { BsArrowRight } from 'react-icons/bs';
 import Do from"./Do.png";
 import chick from "./chick.png";
@@ -147,69 +133,7 @@ const HomePage = () => {
               selected only from the best places
             </p>
           </div>
-          {/* <div className="flex gap-6">
-            <Button
-              className="border-2 py-3 px-12 duration-300 border-slate-900 rounded-full hover:bg-slate-900 hover:text-white"
-              text="Pork"
-            />
-            <Button
-              className="border-2 py-3 px-12 border-slate-200 duration-300 rounded-full hover:border-2 hover:border-slate-900 hover:bg-slate-200"
-              text="Meat"
-            />
-            <Button
-              className="border-2 py-3 px-12 border-slate-200 rounded-full duration-300 hover:border-2 hover:border-slate-900 hover:bg-slate-200"
-              text="Chicken"
-            />
-          </div>
-          <div className="relative h-[323px] w-[1128px] flex items-center justify-center">
-          <div className="flex gap-11 static w-[952px] h-[323px]">
-                <div className="h-[323px] w-[288px] flex flex-col items-center justify-center rounded-sm ">
-                  <img
-                    src={pork}
-                    alt="buff momo"
-                    className="w-[999px] h-[10x]"
-                  />
-                </div>
-                <div className="flex gap-11 static w-[952px] h-[323px]">
-                  </div>
-                <div className="h-[323px] w-[288px] flex flex-col items-center justify-center rounded-sm ">
-                  <img
-                    src={meat}
-                    alt="buff momo"
-                    className="w-[999px] h-[10x] "
-                  />
-                </div>
-              <div className="relative h-[323px] w-[1128px] flex items-center justify-center">
-                <div className="flex gap-11 static w-[952px]
-                h-[323px]">
-                  <div className="h-[323px] w-[288px] flex flex-col items-center justify-center rounded-sm">
-                    <img
-                    src={chick}
-                    alt=""
-                    className="w-[999px] h-[10px]"
-                    />
-                  </div>
-                </div>
-              </div>
-                
-               
-                
-        
-            
-            <Button
-              icon={<FaChevronRight />}
-              className="absolute top-[50%] -right-10 border-2 h-9 border-slate-900 text-slate-900 w-9 flex items-center justify-center rounded-full duration-300 hover:bg-slate-900 hover:text-white "
-              />
-              <Button
-              icon={<FaChevronLeft />}
-              className="absolute top-[50%] -left-10 border-2 h-9 border-slate-900 text-slate-900 duration-300 hover:bg-slate-900 hover:text-white w-9 flex items-center justify-center rounded-full"
-            />
-            </div>
-            <div className="relative h-[323px] w-[1128px] flex items-center justify-center">
- 
-              
-              </div>
-            </div> */}
+          
            <div className="flex gap-6">
             <Button
               className="border-2 py-3 px-12 duration-300 border-slate-900 rounded-full hover:bg-orange-700 hover:text-white"
@@ -555,8 +479,8 @@ const HomePage = () => {
     loading="lazy"
     title="Embedded Map"
   ></iframe>
-</section>
- */}
+</section> */}
+
 
 
 
